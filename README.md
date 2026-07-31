@@ -25,7 +25,6 @@ An AI-powered image captioning application that automatically generates descript
 ```
 image-captioning-blip/
 │── image_captioning.ipynb
-│── requirements.txt
 │── README.md
 │── sample_images/
 ```
@@ -45,7 +44,6 @@ image-captioning-blip/
 4. Upload an image.
 5. The application generates a descriptive caption for the uploaded image.
 
-## 📸 Sample Output
 
 ## 📖 Model Used
 
